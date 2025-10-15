@@ -1,6 +1,0 @@
-● drosera.service - Drosera Node Service
-     Loaded: loaded (]8;;file://vmi2803889/etc/systemd/system/drosera.service/etc/systemd/system/drosera.service]8;;; [0;1;32menabled[0m; preset: [0;1;32menabled[0m)
-     Active: activating (auto-restart) (Result: exit-code) since Tue 2025-10-14 02:31:49 CEST; 7s ago
-    Process: 1750386 ExecStart=/root/.drosera/bin/drosera-operator node --db-file-path /root/.drosera.db --network-p2p-port 3030 --eth-rpc-url https://rpc.ankr.com/eth_hoodi/59bbe30bcbfd3a4dcf644818bf8c75f5857f3c6875704c51ebf3bc773ff1bc01 --network-external-p2p-address 194.163.155.109:3030 --eth-private-key 0x23110077c637b8b9a8fb23e01f6d6a96c76784d85512cac9fd2dca798aee9 [0;1;31m(code=exited, status=1/FAILURE)[0m
-   Main PID: 1750386 (code=exited, status=1/FAILURE)
-        CPU: 254ms
